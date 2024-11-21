@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mobile application</string>
+    <string name="description_of_image">Description of the image content</string>
+    <string name="textview2">Get Started</string>
+    <string name="textview3">Find the best Coffee\nfor you</string>
+    <string name="textView32">Avaiable Offers</string>
+    <string name="textView">Buy your favourite Coffee now!</string>
+    <string name="textView15">Cart</string>
+    <string name="textView18">Good morning!</string>
+    <string name="textView19">Grab your first coffee in this morning</string>
+    <string name="textView30">Popular</string>
+</resources>
